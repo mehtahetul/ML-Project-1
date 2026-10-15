@@ -20,10 +20,16 @@ Classify a vehicle as **Sedan (0)**, **SUV (1)** or **Sports Car (2)** from 20 n
 - **Approach:** Logistic Regression baseline, Decision Tree and XGBoost
 - **Notebooks:** `Vehicle Class Classification/*.ipynb`
 
+## Report
+
+The full write-up for both projects is in [`Report (Regression + Classification).pdf`](<Report (Regression + Classification).pdf>).
+
 ## Repository structure
 
 ```
 ML-Project-1/
+├── README.md
+├── Report (Regression + Classification).pdf
 ├── Domestic Flight Prediction/
 │   ├── train.csv, test.csv, sample_submission.csv
 │   ├── flight_price_prediction_v7 -- final.ipynb
